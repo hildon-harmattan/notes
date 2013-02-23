@@ -47,3 +47,8 @@ I didn't manage to build gtk-doc for harmattan, but I overcame the obstacle by b
 I have xrandr here in my dev folder but I'm pretty sure I didn't have to use it finally.
 
 
+Links
+------
+
+I had been documenting my progress here http://talk.maemo.org/showthread.php?t=84987
+Most things come from here https://github.com/cordia
